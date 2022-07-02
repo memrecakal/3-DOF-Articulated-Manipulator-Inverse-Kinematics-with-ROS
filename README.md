@@ -1,1 +1,1 @@
-# 3-DOF-Articulated-Manipulator-Inverse-Kinematics-with-ROS
+# 3 DOF Articulated Manipulator Inverse Kinematics with ROS
